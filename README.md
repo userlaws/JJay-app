@@ -4,6 +4,14 @@ A React Native marketplace app for John Jay College students to buy and sell ite
 
 > **Note**: This was my first app I built while learning how to build mobile applications. It was a great learning experience!
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/7fa9ce20-1076-4a8a-bee1-820b6eb7b996
+
+
+
 ## Features
 
 - **Today Tab**: Campus events, open facilities, and sponsored offers
